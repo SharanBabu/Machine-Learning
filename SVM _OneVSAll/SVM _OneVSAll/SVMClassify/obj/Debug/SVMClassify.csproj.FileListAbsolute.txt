@@ -1,0 +1,36 @@
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.csprojResolveAssemblyReference.cache
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\bin\Debug\SVMClassify.exe
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\bin\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Desktop\SVM\SVMClassify\obj\Debug\SVMClassify.csprojResolveAssemblyReference.cache
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.exe
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\bin\Debug\SVMClassify.pdb
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMClassify\obj\Debug\SVMClassify.csprojResolveAssemblyReference.cache
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Desktop\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sxp141731\Desktop\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sxp141731\Desktop\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.csprojResolveAssemblyReference.cache
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe.config
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\bin\Debug\SVMClassify.pdb
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVM _OneVSAll\SVMClassify\obj\Debug\SVMClassify.csprojResolveAssemblyReference.cache
