@@ -1,0 +1,28 @@
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\StopWords.txt
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe.config
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.pdb
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.exe
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.pdb
+C:\Users\sharan\documents\visual studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.csprojResolveAssemblyReference.cache
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\StopWords.txt
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe.config
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.pdb
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.csprojResolveAssemblyReference.cache
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.exe
+C:\Users\sxp141731\Documents\Visual Studio 2013\Projects\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.pdb
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\bin\Debug\StopWords.txt
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe.config
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\bin\Debug\SVMPreprocessor.pdb
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.csprojResolveAssemblyReference.cache
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.exe
+C:\Users\sxp141731\Desktop\SVM\SVMPreprocessor\obj\Debug\SVMPreprocessor.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe.config
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\obj\Debug\SVMPreprocessor.exe
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\obj\Debug\SVMPreprocessor.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\bin\Debug\StopWords.txt
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\bin\Debug\SVMPreprocessor.exe
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\bin\Debug\SVMPreprocessor.pdb
+C:\Users\sharan\Documents\Visual Studio 2013\Projects\SVM _OneVSAll\SVMPreprocessor\obj\Debug\SVMPreprocessor.csprojResolveAssemblyReference.cache
